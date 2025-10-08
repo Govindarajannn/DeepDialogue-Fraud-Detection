@@ -19,12 +19,14 @@ Despite phone scams being a critical problem affecting millions globally, there 
 - Carefully crafted prompts to create realistic dialogue scenarios
 - Covered various scam tactics and legitimate call patterns
 - Total dataset: 1,800 samples
+- Dataset available here: https://huggingface.co/datasets/shakeleoatmeal/phone-scam-detection-synthetic
 
 ### Model Fine-Tuning
 - Base model: Qwen2.5-0.5B-Instruct
 - Technique: LoRA (Low-Rank Adaptation)
 - Training samples: 1,800 dialogues
 - Demonstrates that small models can achieve production-grade performance on specialized tasks with quality fine-tuning
+- Fine tuned LoRA Adapters available here - https://huggingface.co/shakeleoatmeal/Fraud-call-detection-Qwen-0.5B-Lora
 
 ## Results
 
