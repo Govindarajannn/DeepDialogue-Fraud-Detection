@@ -87,10 +87,6 @@ See `requirements.txt` for full dependencies. Key packages include:
 
 This project demonstrates that specialized small language models can outperform larger general-purpose models on domain-specific tasks when properly fine-tuned with high-quality data.
 
-## License
-
-[Add your license here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
