@@ -1,0 +1,18 @@
+#Avoid pushing to github
+# Virtual environment
+venv/
+
+#environmental variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
