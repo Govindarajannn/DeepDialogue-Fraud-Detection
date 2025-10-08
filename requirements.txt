@@ -1,0 +1,15 @@
+transformers
+datasets
+evaluate
+peft
+bitsandbytes
+accelerate
+huggingface_hub
+groq
+matplotlib
+seaborn
+scikit-learn
+numpy
+pandas
+torch
+tqdm
